@@ -1,0 +1,394 @@
+svg {
+
+    position: relative;
+    top: 25vw;
+    width: 90vw;
+    margin: auto;
+    padding: auto;
+}
+
+g #ind:hover {
+
+    font-size: 38px;
+    cursor: default;
+}
+
+
+g text {
+
+    font-weight: bold;
+
+}
+
+g text:hover {
+
+
+    fill: #D3072A;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+
+}
+
+g tspan:hover {
+
+    font-size: 18px;
+    font-weight: bold;
+    fill: #D3072A;
+    cursor: pointer;
+
+}
+
+polygon#plade-xenon:hover {
+
+    fill: #D3072A;
+}
+
+polygon#plade-musik:hover {
+
+    fill: #D3072A;
+}
+
+polygon#plade-star:hover {
+
+    fill: #D3072A;
+}
+
+polygon#plade-bio:hover {
+
+    fill: #D3072A;
+}
+
+polygon#plade-bastard:hover {
+
+    fill: #FCE5F1
+}
+
+polygon#plade-indgang:hover {
+
+    fill: #FCE5F1
+}
+
+polygon#plade-gaardhaven:hover {
+
+    fill: #FCE5F1
+}
+
+polygon#plade-salonk:hover {
+
+    fill: #D3072A;
+}
+
+polygon#plade-stuen:hover {
+
+    fill: #FCE5F1;
+
+}
+
+polygon#plade-kaelder:hover {
+
+    fill: #D3072A
+}
+
+polygon#plade-teater:hover {
+
+    fill: #FCE5F1;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+#banner_img {
+    width: 100%;
+    height: 20vw;
+    object-fit: cover;
+    position: absolute;
+}
+
+#logo_frontsite {
+    width: 10vw;
+    height: 10vw;
+    position: absolute;
+    top: 1vw;
+    left: 1vw;
+}
+
+#sort_button img {
+    width: 100%;
+    height: 10vw;
+    object-fit: cover;
+}
+
+#sort_button {
+    width: 40vw;
+    height: 10vw;
+    z-index: 2;
+    margin: auto;
+
+}
+
+#sort_button:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+#sort_button:active {
+    transform: scale(0.95);
+    cursor: pointer;
+}
+
+#modal_vindue {
+    position: absolute;
+    top: 0;
+    opacity: 0;
+    background-color: rgba(89, 89, 89, 0.9);
+    width: 100vw;
+    height: 100%;
+    pointer-events: none;
+    transition: 0.5s;
+    z-index: 10;
+}
+
+#menuVindue {
+    background-color: lightgray
+}
+
+.modal_knap img {
+    width: 10vw;
+}
+
+
+#footer {
+    width: 96.5vw;
+    border-style: solid;
+    border-color: black;
+    height: 10vw;
+    bottom: 0vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#footerTxt {
+    background-color: lightcoral;
+    margin: 0;
+    height: 10vw;
+}
+
+#footerLogo {
+    margin: 0;
+    height: 10vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+.footerLogo_logo {
+    height: 9vw;
+    margin: auto;
+}
+
+.sponsor {
+    width: 9vw;
+    height: 9vw;
+    object-fit: cover;
+
+}
+
+#indholdsArea {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 1vw;
+    grid-gap: 5vw;
+    margin-top: 5vw;
+}
+
+#sletMig:nth-child(7n+7) {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    background-color: blue;
+}
+
+
+
+
+.pil_img {
+    width: 3vw;
+}
+
+.pilHoejre {
+    transform: rotate(180deg) scale(1.5);
+    position: absolute;
+    top: 3vw;
+    right: 3vw;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sidenav {
+    height: 100%;
+
+    width: 0;
+
+    position: fixed;
+
+    z-index: 3;
+
+    top: 0;
+    right: 0;
+    background-color: lightgray;
+
+    overflow-x: hidden;
+
+    padding-top: 60px;
+
+    transition: 0.2s;
+
+
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s
+}
+
+.sidenav a:hover,
+.offcanvas a:focus {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+    transform: scale(1.4);
+}
+
+
+
+#main {
+    transition: margin-left .5s;
+
+    overflow: hidden;
+    width: 100%;
+
+    margin-top: 25vw;
+}
+
+.topnav {
+    background-color: white;
+    overflow: hidden;
+    width: 8.5vw;
+}
+
+.topnav a {
+    position: absolute;
+    right: 1vw;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    transform: scale(1.4);
+}
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {
+        padding-top: 15px;
+    }
+
+    .sidenav a {
+        font-size: 18px;
+    }
+}
+
+a svg {
+    transition: all .5s ease;
+
+    &:hover {
+        #transform: rotate(180deg);
+    }
+
+}
+
+#ico {
+    display: none;
+}
+
+.menu {
+    background: #000;
+    display: none;
+    padding: 5px;
+    width: 320px;
+    @include border-radius(5px);
+
+    #transition: all 0.5s ease;
+
+    a {
+        display: block;
+        color: #fff;
+        text-align: center;
+        padding: 10px 2px;
+        margin: 3px 0;
+        text-decoration: none;
+        background: #444;
+
+        &:nth-child(1) {
+            margin-top: 0;
+            @include border-radius(3px 3px 0 0);
+        }
+
+        &:nth-child(5) {
+            margin-bottom: 0;
+            @include border-radius(0 0 3px 3px);
+        }
+
+        &:hover {
+            background: #555;
+        }
+    }
+}
+
+#nyhedsbrev {
+
+    position: fixed;
+    bottom: 12vw;
+    right: 2vw;
+    z-index: 2;
+}
+
+#nyhedsbrevImg {
+    width: 13vw;
+    border-radius: 10vw;
+}

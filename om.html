@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="da">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Om</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" href="logo_endeligt.png">
+
+</head>
+
+<body>
+
+    <img src="splash-02.png" alt="banner" id="banner_img">
+    <a href="index.html"><img src="logo_endeligt.png" alt="logo" id="logo_frontsite"></a>
+
+    <div id="sideNavigation" class="sidenav">
+        <a href="#" onclick="closeNav()"> <img src="pil.png" alt="pil" class="pil_img pilHoejre"></a>
+        <a href="index.html">Forside</a>
+        <a href="etager.html">Huset</a>
+        <a href="udlejning.html">Udlejning</a>
+        <a href="om.html">Om</a>
+        <a href="kontakt.html">Kontakt</a>
+        <a href="frivillig.html">Frivillig</a>
+
+    </div>
+
+    <div id="navigation" class="navi">
+        <img src="search.png" alt="loop" id="searchIcon">
+        <input type="text" id="searchBar" value="Søg">
+
+        <a href="index.html">Forside</a>
+        <a href="etager.html">Huset</a>
+        <a href="udlejning.html">Udlejning</a>
+        <a href="om.html">Om</a>
+        <a href="kontakt.html">Kontakt</a>
+        <a href="frivillig.html">Frivillig</a>
+
+    </div>
+
+    <nav class="topnav">
+        <a href="#" onclick="openNav()">
+            <img src="pil.png" alt="pil" class="pil_img" class="pilVenstre">
+        </a>
+    </nav>
+
+
+    <div class="container_body">
+
+        <h2><b>Åbningstider</b></h2>
+
+        <p> Husets reception har åbent for henvendelser i hverdage ml. 11.00-15.00.</p>
+
+        <h3><b>Bastard Café</b></h3>
+        <p><b>Mandag-torsdag:</b> 12.00-00.00.</p>
+
+        <p><b>Fredag-lørdag:</b> 12.00-02.00.</p>
+
+        <p><b>Søndag:</b> 12.00-00.00.</p>
+
+        <a href="https://bastardcafe.dk/"><b>Se mere på Bastard Cafés hjemmeside</b></a>
+
+
+        <h3><b>Spisehuset Fair</b></h3>
+        <p> <b>Tirsdag-lørdag:</b> 17.00-22.00.</p>
+
+        <a href="http://kaffefair.dk/maddrikke/"><b>Se mere på Spisehusets hjemmeside</b></a>
+
+        <h3 id="teater"><b>Xenon og Vox</b></h3>
+        <p> Xenon og Vox er navnet på Teaterhusets to forskellige scener. <br>Huset KBH og Teaterhuset samarbejder om opsætningen af forskellige teaterstykker, performancekunst og improteater, der hovedsageligt foregår på Xenon.</p>
+
+        <a href="https://www.teater-huset.dk"><b>Læs mere om Xenon og Vox på Teaterhusets hjemmeside</b></a>
+
+
+        <h2><b>Husets organisation </b></h2>
+        <p> Huset bestyres til dagligt af en administration, som befinder sig i forhuset på stueplan ud mod Rådhusstræde. </p>
+
+        <p> Formålet med Husets administration er at skabe de bedste rammer for kulturen ved at sørge for drift, afvikling, teknik, rådgivning, netværk og rådgivning om blandt andet promotion.</p>
+
+        <p> Huset er rammen om kulturen. En platform for at prøve forskellige kulturelle idéer af. Det betyder, at vi samarbejder på kryds og tværs med andre foreninger og kulturaktører i København om at skabe unikke kulturoplevelser. </p>
+
+
+        <h3><b>Arrangører og foreninger i Huset-KBH</b></h3>
+
+        <p> Bastard Café, Musikcaféen, Husets Biograf, TeaterHuset, Bip Bip Bar, evoo, Paradise Jazz, CopenOpen Poetry Slam, Huset Stand-up, Lystløgneraften og Samlingspunktet Indre By – er blot nogle af de faste kulturskabere. Derudover findes der filmklubber, debatarrangementer, litteraturaftener og festivaler som Cph Jazz Festival, Vildskud, Zulu Comedy Festival og Talk Town Festival. </p>
+
+        <h2><b>Privacy policy</b></h2>
+
+        <p> Ved brug af denne hjemmeside registreres anonymiseret data gennem Google Analytics. Google opbevarer din anonymiserede data i 50 mdr, hvorefter det vil blive slettet. Vi bruger udelukkende denne data til at få et indblik i, hvem der bruger vores hjemmeside og til at forbedre vores information. </p>
+
+        <p> Når du kontakter medarbejdere i Huset via mail eller gennem kontaktformularer videregiver du personlig data. Vi opbevarer ikke dine personlige data eller bruger det til andet end at behandle din sag. Alle oplysninger dvs. mailkorrespondancer vil blive slettet, når sagen er behandlet.</p>
+
+        <script src="javascript.js"></script>
+
+    </div>
+
+    <div id="nyhedsbrev">
+        <a href="#" onclick="visForm()"><img src="nyhedsbrev_endeligt.png" alt="" id="nyhedsbrevImg"></a>
+
+        <div id="nyhedsbrevForm" class="toggleNyhedsbrev2">
+            <p id="nyhedsTxt">Følg med i Huset!</p>
+            <input type="email" id="nyhedsArea" value="Skriv din Email her:">
+            <input type="submit" id="nyhedsSubmit" value="Tilmeld">
+
+        </div>
+
+    </div>
+    <div id="footer">
+
+        <div id="footerTxt">
+            <div class="text1">
+
+                <ul>
+                    <p><b>Om HUSET</b></p>
+                    <p>I Huset finder du en masse kulturoplevelser, krøllede idéer og kreative ildsjæle. Med intet mindre end 5 scener, en biograf, et teater, øvelokaler, madbod, arkadespil, en brætspilscafé – og mere end tyve foreninger og klubber – sker der rigtig meget! Vi glæder os til at se dig i Huset!</p>
+                </ul>
+
+
+
+
+            </div>
+            <div class="text2">
+
+
+                <p><b>Kontakt Huset</b></p>
+                <p>Rådhusstræde 13</p>
+                <p>1466 København K</p>
+                <p>+ 45 21 51 21 51</p>
+                <p>info@huset-kbh.dk</p>
+
+            </div>
+
+            <div class="text3">
+
+                <a href="https://www.facebook.com/Huset.Koebenhavn">
+                    <img src="facebook.png" id="fb" alt="facebook">
+                </a>
+
+                <a href="https://www.instagram.com/husetkbh/">
+                    <img src="insagram.png" id="instagram" alt="instagram">
+                </a>
+
+            </div>
+
+        </div>
+
+        <div id="footerLogo">
+
+            <div class="footerLogo_logo"><img src="tuborg.png" alt="logo1" class="sponsor"></div>
+            <div class="footerLogo_logo"><img src="k%C3%B8-01.png" alt="logo1" class="sponsor"></div>
+            <div class="footerLogo_logo"><img src="
+                dansklive-01.png" alt="logo1" class="sponsor"></div>
+
+        </div>
+
+    </div>
+    <script src="javascript.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1280 800" enable-background="new 0 0 1280 800" xml:space="preserve">
+    <g id="HUSET">
+    </g>
+    <g id="Kaelderen">
+        <polygon id="plade-kaelder" fill="#0F1548" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="117.5,659.5
+		318.5,545.5 474.5,545.5 399.5,599.5 572.5,602.5 504.5,659.5 	" />
+
+        <text id="tekst-kaelder" transform="matrix(1 0 0 1 231.2 635)" fill="#EFDAE1" font-family="Nunito" font-size="16px">KÆLDEREN</text>
+        <g id="Kælderen_1_">
+            <rect x="117.5" y="659.5" fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="387.5" height="8" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="504.5,667.5 571.5,609.5
+			571.5,602.5 504.5,659.5 		" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="399.5,599.5 474.5,545.5
+			474.5,555.5 414.4,599.8 		" />
+        </g>
+    </g>
+    <g id="Stuen">
+        <g id="Stuen_1_">
+
+            <rect x="117" y="582.2" fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="228.4" height="10.8" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="344.8,582.8 449.4,514 449.4,522.7
+			344.8,593 		" />
+        </g>
+        <polygon id="plade-stuen" fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="117,582.2
+		345.4,582.2 450,513.7 238.4,513.7 	" />
+        <text transform="matrix(1 0 0 1 231.1998 553.5)" font-family="Nunito" font-size="16px">STUEN</text>
+    </g>
+    <g id="Salon_K">
+        <polygon id="plade-salonk" fill="#0F1548" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="117.5,505.5
+		318.5,391.5 474.5,391.5 399.5,445.5 572.5,448.5 504.5,505.5 	" />
+
+        <a href="udlejning.html#salonk"> <text id="tekst-salonk" transform="matrix(1 0 0 1 231.1998 477.5)" fill="#EFDAE1" font-family="Nunito" font-size="16px">SALONK</text> </a>
+        <g id="SalonK">
+            <rect x="117.5" y="505.5" fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="387.5" height="8" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="504.5,513.5 571.5,455.5
+			571.5,448.5 504.5,505.5 		" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="399.5,445.5 474.5,391.5
+			474.5,401.5 414.4,445.8 		" />
+        </g>
+    </g>
+
+
+    <g id="Teaterhuset">
+        <polygon id="plade-teater" fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="120,428 310,428
+		397,371 221,371 	" />
+        <a href="https://www.teater-huset.dk/"><text id="tekst-teater" transform="matrix(1 0 0 1 220.1606 404.15)" font-family="Nunito" font-size="16px">TEATERHUSET</text> </a>
+        <g id="Teaterhuset_1_">
+            <rect x="120" y="428" fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="190" height="9" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="309.5,428.5 396.5,371.3
+			396.5,378.5 309.5,437 		" />
+        </g>
+    </g>
+    <g id="Gaardhaven">
+        <polygon id="plade-gaardhaven" fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="468.5,580.5
+		549.5,522.5 786.5,522.5 733.5,580.5 	" />
+        <text id="tekst-gaardhaven" transform="matrix(1 0 0 1 549.8545 558.6366)" font-family="Nunito" font-size="16px">GÅRDHAVEN</text>
+        <g id="Gårdhaven_1_">
+            <rect x="469" y="580" fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="264" height="8" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="732.5,588.5 786.5,529.5
+			786.5,522.5 732.5,580.5 		" />
+        </g>
+    </g>
+    <g id="Indgang">
+        <polygon id="plade-indgang" fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="703.5,659.5
+		825.5,522.5 852.5,522.5 790.5,601.5 1008.5,601.5 957.5,659.5 	" />
+        <g id="Indgangen">
+            <rect x="704" y="659" fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="253.6" height="8" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="957.1,667.5 1009,608.5 1009,601.5
+			957.1,659.5 		" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="790.6,601.5 853,523 853,532
+			799,601.5 		" />
+        </g>
+    </g>
+    <g id="Bastard">
+        <polygon id="plade-bastard" fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="736.5,498.5
+		804.5,441.5 1094.5,442.5 1055.5,501.5 	" />
+        <a href="https://bastardcafe.dk/"> <text id="tekst-bastard" transform="matrix(1 0 0 1 804.6838 463.7998)">
+                <tspan x="0" y="0" fill="#1F1E1E" font-family="Nunito" font-size="16px">BASTARD CAFE</tspan>
+                <tspan x="0" y="19.2" fill="#1F1E1E" font-family="Nunito" font-size="16px"></tspan>
+            </text> </a>
+        <g id="Bastard_1_">
+            <rect x="737" y="498" fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="318" height="8" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="1055.5,497.5 1094.5,442.5
+			1094.5,449.5 1055.5,505.5 		" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="971.5,478.5 997.5,453.5
+			1056.5,453.5 1037.5,481.5 968.5,481.5 		" />
+            <polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="997.5,454 997.5,463.5 1005.5,463.5
+			1005.5,473.5 1015.5,473.5 1015.5,481.5 		" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="1005.5" y1="473.5" x2="996.5" y2="481.5" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="997.5" y1="463.5" x2="977.5" y2="481.5" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="1015.5" y1="473.5" x2="1006.5" y2="481.5" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="1005.3" y1="463.8" x2="987.5" y2="481.5" />
+        </g>
+    </g>
+    <g id="Stardust">
+        <polygon id="plade-star" fill="#0F1548" points="667.5,409.9 750.4,340.4 1104,341.6 1056.4,413.5 	" />
+        <text id="plade-star_1_" transform="matrix(1 0 0 1 749.0902 372.0502)">
+            <a href="http://www.evoo.dk/">
+                <tspan x="0" y="-10" fill="#EFDAE1" font-family="Nunito" font-size="16px">EVO KITCHEN</tspan>
+            </a>
+        </text>
+
+        <text id="plade-star_1_" transform="matrix(1 0 0 1 749.0902 372.0502)">
+            <a href="udlejning.html#stardust">
+                <tspan x="0" y="10" fill="#EFDAE1" font-family="Nunito" font-size="16px">STARDUST</tspan>
+            </a>
+        </text>
+
+        <text id="plade-star_1_" transform="matrix(1 0 0 1 749.0902 372.0502)">
+            <a href="http://bipbipbar.dk/">
+                <tspan x="0" y="30" fill="#EFDAE1" font-family="Nunito" font-size="16px">BIP BIP BAR</tspan>
+            </a>
+        </text>
+
+        <text id="plade-star_1_" transform="matrix(1 0 0 1 749.0902 372.0502)">
+            <h ref="http://bipbipbar.dk/">
+                <tspan x="0" y="19.2" fill="#EFDAE1" font-family="Nunito" font-size="16px">STARDUST/ BIP BIP BAR</tspan>
+            </h>
+        </text>
+        <g id="Stardust_1_">
+
+            <rect x="668.1" y="409.2" fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="387.8" height="9.8" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="1056.4,408.6 1104,341.6 1104,350.1
+			1056.4,418.4 		" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="954,385.5 985.7,355 1057.7,355
+			1034.5,389.1 950.4,389.1" />
+            <polyline fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="985.7,355.6 985.7,367.2
+			995.5,367.2 995.5,379.4 1007.7,379.4 1007.7,389.1 		" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="995.5" y1="379.4" x2="984.5" y2="389.1" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="985.7" y1="367.2" x2="961.3" y2="389.1" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="1007.7" y1="379.4" x2="996.7" y2="389.1" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="995.3" y1="367.5" x2="973.5" y2="389.1" />
+        </g>
+    </g>
+    <g id="Biografen">
+        <polygon id="plade-bio" fill="#0F1548" points="668.1,310.2 751,240.7 1104.6,241.9 1057,313.8 	" />
+        <text id="tekst-bio" transform="matrix(1 0 0 1 748.7146 272.3502)">
+            <a href="udlejning.html#husetsbiograf">
+                <tspan x="0" y="0" fill="#EFDAE1" font-family="Nunito" font-size="16px">HUSETS BIOGRAF</tspan>
+            </a>
+            <a href="om.html">
+                <tspan x="0" y="19.2" fill="#EFDAE1" font-family="Nunito" font-size="16px">VOX</tspan>
+            </a>
+        </text>
+        <g id="Biografen_1_">
+
+            <rect x="668.7" y="309.5" fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="387.8" height="9.8" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="1057,308.9 1104.6,241.9
+			1104.6,250.4 1057,318.7 		" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="954.6,285.8 986.3,255.3
+			1058.3,255.3 1035.1,289.4 951,289.4 		" />
+            <polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="986.3,255.9 986.3,267.5 996.1,267.5
+			996.1,279.7 1008.3,279.7 1008.3,289.4 		" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="996.1" y1="279.7" x2="985.1" y2="289.4" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="986.3" y1="267.5" x2="961.9" y2="289.4" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="1008.3" y1="279.7" x2="997.3" y2="289.4" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="995.9" y1="267.8" x2="974.1" y2="289.4" />
+        </g>
+    </g>
+    <g id="Musikcafeen">
+        <polygon id="plade-musik" fill="#0F1548" points="668.7,217.2 751.6,147.7 1105.2,148.9 1057.6,220.8 	" />
+
+        <a href="udlejning.html#musikcafeen"> <text id="tekst-musik" transform="matrix(1 0 0 1 758.8074 184.2498)" fill="#EFDAE1" font-family="Nunito" font-size="16px">MUSIKCAFEEN</text> </a>
+        <g id="Musikcafeen_1_">
+
+            <rect x="669.3" y="216.5" fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="387.8" height="9.8" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="1057.6,215.9 1105.2,148.9
+			1105.2,157.4 1057.6,225.7 		" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="955.2,192.8 986.9,162.3
+			1058.9,162.3 1035.7,196.4 951.6,196.4 		" />
+            <polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="986.9,162.9 986.9,174.5 996.7,174.5
+			996.7,186.7 1008.9,186.7 1008.9,196.4 		" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="996.7" y1="186.7" x2="985.7" y2="196.4" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="986.9" y1="174.5" x2="962.5" y2="196.4" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="1008.9" y1="186.7" x2="997.9" y2="196.4" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="996.5" y1="174.8" x2="974.7" y2="196.4" />
+        </g>
+    </g>
+    <g id="Xenon">
+        <polygon id="plade-xenon" fill="#0F1548" points="669.3,124.5 752.2,55 1105.8,56.2 1058.2,128.1 	" />
+
+        <a href="om.html"> <text id="tekst-xenon" transform="matrix(1 0 0 1 755.537 91.5501)" fill="#EFDAE1" font-family="Nunito" font-size="16px">XENON</text> </a>
+        <g id="Xenon_1_">
+
+            <rect x="669.9" y="123.8" fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="387.8" height="9.8" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="1058.2,123.2 1105.8,56.2
+			1105.8,64.7 1058.2,133 		" />
+            <polygon fill="#D3EBF1" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="955.8,100.1 987.5,69.6 1059.5,69.6
+			1036.3,103.7 952.2,103.7 		" />
+            <polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="987.5,70.2 987.5,81.8 997.3,81.8
+			997.3,94 1009.5,94 1009.5,103.7 		" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="997.3" y1="94" x2="986.3" y2="103.7" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="987.5" y1="81.8" x2="963.1" y2="103.7" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="1009.5" y1="94" x2="998.5" y2="103.7" />
+            <line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="997.1" y1="82.1" x2="975.3" y2="103.7" />
+        </g>
+    </g>
+    <g id="_x31__sal">
+        <g id="_x31_">
+            <g>
+                <g>
+                    <defs>
+                        <rect id="SVGID_1_" x="1139.3" y="344.1" width="24.9" height="46.2" />
+                    </defs>
+                    <clipPath id="SVGID_2_">
+                        <use xlink:href="#SVGID_1_" overflow="visible" />
+                    </clipPath>
+                    <path clip-path="url(#SVGID_2_)" fill="#1D1D1B" d="M1163.6,390.3h-10.5c-0.3,0-0.6-0.3-0.6-0.6c0-0.3,0.3-0.6,0.6-0.6h9.9v-4.2
+					h-8.5c-0.3,0-0.6-0.3-0.6-0.6v-39.5c0-0.3,0.3-0.6,0.6-0.6c0.3,0,0.6,0.3,0.6,0.6v39h8.5c0.3,0,0.6,0.3,0.6,0.6v5.4
+					C1164.2,390,1163.9,390.3,1163.6,390.3" />
+                </g>
+            </g>
+            <g>
+                <g>
+                    <defs>
+                        <rect id="SVGID_3_" x="1139.3" y="344.1" width="24.9" height="46.2" />
+                    </defs>
+                    <clipPath id="SVGID_4_">
+                        <use xlink:href="#SVGID_3_" overflow="visible" />
+                    </clipPath>
+                    <path clip-path="url(#SVGID_4_)" fill="#1D1D1B" d="M1150.4,390.3h-10.5c-0.3,0-0.6-0.3-0.6-0.6v-5.4c0-0.3,0.3-0.6,0.6-0.6h8.5
+					v-32.9h-7.3c-0.3,0-0.6-0.3-0.6-0.6v-5.4c0-0.3,0.3-0.6,0.6-0.6h10.7c0.3,0,0.6,0.3,0.6,0.6c0,0.3-0.3,0.6-0.6,0.6h-10.1v4.2
+					h7.3c0.3,0,0.6,0.3,0.6,0.6v34.1c0,0.3-0.3,0.6-0.6,0.6h-8.5v4.2h9.9c0.3,0,0.6,0.3,0.6,0.6C1151,390,1150.7,390.3,1150.4,390.3
+					" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="_x32__sal">
+        <g id="_x32__1_">
+            <g>
+                <g>
+                    <defs>
+                        <rect id="SVGID_5_" x="1139.3" y="245.6" width="31" height="53.4" />
+                    </defs>
+                    <clipPath id="SVGID_6_">
+                        <use xlink:href="#SVGID_5_" overflow="visible" />
+                    </clipPath>
+                    <path clip-path="url(#SVGID_6_)" fill="#1D1D1B" d="M1146.9,292.7L1146.9,292.7c-0.4,0-0.7-0.3-0.7-0.7c0.2-3.4,1.2-4.7,3.9-7.3
+					l13.6-13.4c3.2-3,4.8-7.4,4.8-10.1l0,0c0.2-3.7-1.1-7.4-3.7-10.1c-2.5-2.6-5.9-4.1-9.7-4.1c-7.3,0-13.2,5.7-13.6,12.8h5.3
+					c0.5-3.5,2.9-6.3,6.5-7.2c0.4-0.1,0.7,0.1,0.8,0.5c0.1,0.4-0.1,0.7-0.5,0.8c-3.2,0.8-5.3,3.3-5.5,6.6c0,0.4-0.3,0.6-0.7,0.6
+					h-6.7c-0.4,0-0.7-0.3-0.7-0.7c0-8.2,6.7-14.8,15-14.8c4.1,0,7.9,1.6,10.7,4.5c2.8,3,4.3,7,4.1,11.1c0,3-1.8,7.8-5.2,11
+					l-13.6,13.4c-2.6,2.5-3.3,3.4-3.5,6.3C1147.6,292.4,1147.3,292.7,1146.9,292.7 M1169.6,299H1140c-0.2,0-0.4-0.1-0.5-0.2
+					s-0.2-0.3-0.2-0.5c0.3-11.9,2.5-14.1,5.6-17.2c0.2-0.2,0.5-0.5,0.7-0.7l13.2-13c2.5-2.6,3-4.7,3.1-6.5c0.2-3.4-2-6.4-5.2-7.1
+					c-0.4-0.1-0.6-0.4-0.5-0.8c0.1-0.4,0.4-0.6,0.8-0.5c3.9,0.8,6.6,4.5,6.3,8.5c-0.1,2-0.6,4.5-3.5,7.4l-13.2,13
+					c-0.2,0.3-0.5,0.5-0.7,0.7c-2.9,2.9-4.8,4.8-5.1,15.6h28.2v-4.9h-18.8c-0.4,0-0.7-0.3-0.7-0.7c0-0.4,0.3-0.7,0.7-0.7h19.5
+					c0.4,0,0.7,0.3,0.7,0.7v6.3C1170.3,298.7,1170,299,1169.6,299" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="_x33__sal">
+        <g id="_x33_">
+            <g>
+                <g>
+                    <defs>
+                        <rect id="SVGID_7_" x="1139.3" y="152" width="31.3" height="54" />
+                    </defs>
+                    <clipPath id="SVGID_8_">
+                        <use xlink:href="#SVGID_7_" overflow="visible" />
+                    </clipPath>
+                    <path clip-path="url(#SVGID_8_)" fill="#1D1D1B" d="M1155,206c-8.6,0-15.6-7.2-15.6-16c0-0.4,0.3-0.7,0.7-0.7h6.5
+					c0.4,0,0.7,0.3,0.7,0.7c0.1,3.6,2.7,6.8,6.3,7.7c0.4,0.1,0.6,0.5,0.5,0.8c-0.1,0.4-0.5,0.6-0.8,0.5c-3.9-1-6.9-4.4-7.3-8.3h-5.2
+					c0.4,7.7,6.6,13.9,14.2,13.9c3.9,0,7.5-1.5,10.1-4.1c2.7-2.7,4.2-6.3,4.2-10.2v-0.1c0-4.8-2-8.8-5.4-10.8
+					c-0.2-0.1-0.3-0.3-0.3-0.6c0-0.2,0.1-0.5,0.3-0.6c3.5-2.4,5.4-6.5,5.4-11.6v-0.1c-0.4-7-5.6-12.6-12.6-13.2
+					c-0.4,0-0.7-0.4-0.6-0.8c0-0.4,0.4-0.7,0.8-0.6c7.6,0.8,13.4,6.9,13.8,14.6c0,0,0,0,0,0.1v0.1c0,5.1-1.8,9.4-5.2,12.1
+					c3.3,2.4,5.2,6.5,5.2,11.4v0.1c0,4.2-1.6,8.2-4.6,11.2C1163.1,204.4,1159.2,206,1155,206" />
+                </g>
+            </g>
+            <g>
+                <g>
+                    <defs>
+                        <rect id="SVGID_9_" x="1139.3" y="152" width="31.3" height="54" />
+                    </defs>
+                    <clipPath id="SVGID_10_">
+                        <use xlink:href="#SVGID_9_" overflow="visible" />
+                    </clipPath>
+                    <path clip-path="url(#SVGID_10_)" fill="#1D1D1B" d="M1156.5,199.1c-0.3,0-0.6-0.2-0.7-0.6c-0.1-0.4,0.2-0.7,0.6-0.8
+					c3.5-0.6,6.3-3.8,6.3-7.3v-0.1l0,0c0.1-2.1-0.6-4.1-2-5.4c-1.4-1.4-3.4-2.1-5.7-2l0,0h-2.9c-0.4,0-0.7-0.3-0.7-0.7v-6.7
+					c0-0.2,0.1-0.4,0.2-0.5s0.3-0.2,0.5-0.2l0,0h2.9l0,0c2.3,0.1,4.3-0.6,5.7-1.9c1.4-1.4,2.2-3.4,2.2-5.8c0-2.1-0.7-3.8-2.1-5.2
+					s-3.5-2.1-5.5-2.1c-4.1,0.2-7.7,3.8-7.8,8c0,0.4-0.3,0.7-0.7,0.7h-6c-0.4,0-0.7-0.3-0.7-0.7c0-8.2,5.8-15,13.5-15.8
+					c0.4,0,0.7,0.2,0.8,0.6c0,0.4-0.2,0.7-0.6,0.8c-6.8,0.8-11.9,6.6-12.2,13.7h4.6c0.5-4.7,4.4-8.5,9.1-8.7
+					c2.5-0.1,4.8,0.8,6.6,2.4c1.7,1.6,2.6,3.8,2.6,6.2c0,2.8-0.9,5.2-2.6,6.8s-4,2.4-6.7,2.3h-2.2v5.3h2.2c2.6-0.1,5,0.8,6.7,2.4
+					c1.6,1.6,2.5,3.9,2.4,6.4v0.1c0,4.3-3.2,8-7.5,8.7C1156.6,199.1,1156.5,199.1,1156.5,199.1" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="_x34__sal">
+        <g>
+            <g>
+                <g>
+                    <defs>
+                        <rect id="SVGID_11_" x="1137.2" y="57.3" width="35.5" height="55" />
+                    </defs>
+                    <clipPath id="SVGID_12_">
+                        <use xlink:href="#SVGID_11_" overflow="visible" />
+                    </clipPath>
+                    <path clip-path="url(#SVGID_12_)" fill="#1D1D1B" d="M1160.7,94.5h-15.1c-0.4,0-0.7-0.3-0.7-0.7c0-0.4,0.3-0.7,0.7-0.7h14.4
+					V72.7l-12.1,18.2c-0.2,0.3-0.7,0.4-1,0.2c-0.3-0.2-0.4-0.7-0.2-1l13.4-20.2c0.2-0.3,0.5-0.4,0.8-0.3s0.5,0.4,0.5,0.7v23.4
+					C1161.4,94.2,1161.1,94.5,1160.7,94.5 M1160.7,100.4h-22.8c-0.4,0-0.7-0.3-0.7-0.7v-6c0-0.1,0-0.3,0.1-0.4l23.3-35.7
+					c0.1-0.2,0.4-0.3,0.6-0.3h2.4c0.4,0,0.7,0.3,0.7,0.7s-0.3,0.7-0.7,0.7h-2l-23,35.2v5h22.1c0.4,0,0.7,0.3,0.7,0.7
+					S1161.1,100.4,1160.7,100.4 M1167,112.3h-6.3c-0.4,0-0.7-0.3-0.7-0.7v-8.7c0-0.4,0.3-0.7,0.7-0.7c0.4,0,0.7,0.3,0.7,0.7v8h4.9
+					V99.6c0-0.4,0.3-0.7,0.7-0.7h4.2v-4.4h-4.2c-0.4,0-0.7-0.3-0.7-0.7V58c0-0.4,0.3-0.7,0.7-0.7c0.4,0,0.7,0.3,0.7,0.7v35.1h4.2
+					c0.4,0,0.7,0.3,0.7,0.7v5.8c0,0.4-0.3,0.7-0.7,0.7h-4.2v11.2C1167.7,112,1167.4,112.3,1167,112.3" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="tekst-indgang">
+        <g>
+            <defs>
+
+                <rect id="SVGID_13_" x="671.1" y="635.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -260.1013 669.3995)" width="13.7" height="26.3" />
+            </defs>
+            <clipPath id="SVGID_14_">
+                <use xlink:href="#SVGID_13_" overflow="visible" />
+            </clipPath>
+            <path clip-path="url(#SVGID_14_)" fill="#1D1D1B" d="M682.8,662.4c-0.1,0.1-0.1,0.1-0.2,0.1c-0.2,0.1-0.5,0-0.6-0.1l-7.9-7.9
+			c-0.2-0.2-0.2-0.6,0-0.8c0.2-0.2,0.6-0.2,0.8,0l7,7v-15.9H666l6.9,6.9c0.2,0.2,0.2,0.6,0,0.8c-0.2,0.2-0.6,0.2-0.8,0l-7.9-7.9
+			c-0.2-0.2-0.2-0.4-0.1-0.6c0.1-0.2,0.3-0.4,0.5-0.4h17.8c0.3,0,0.6,0.3,0.6,0.6V662C683,662.2,682.9,662.3,682.8,662.4" />
+        </g>
+        <line fill="none" stroke="#000000" stroke-miterlimit="10" x1="674.3" y1="653.9" x2="648.7" y2="678.6" />
+
+        <text transform="matrix(1 0 0 1 559.8897 723.869)" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" font-family="Nunito" font-size="38px">INDGANG</text>
+    </g>
+    <g id="_x31__sal_2_">
+        <g id="_x31__sal_1_">
+            <g id="_x31__1_">
+                <g>
+                    <g>
+                        <defs>
+                            <rect id="SVGID_15_" x="53.8" y="467.5" width="24.9" height="46.2" />
+                        </defs>
+                        <clipPath id="SVGID_16_">
+                            <use xlink:href="#SVGID_15_" overflow="visible" />
+                        </clipPath>
+                        <path clip-path="url(#SVGID_16_)" fill="#1D1D1B" d="M78.1,513.7H67.6c-0.3,0-0.6-0.3-0.6-0.6c0-0.3,0.3-0.6,0.6-0.6h9.9v-4.2
+						H69c-0.3,0-0.6-0.3-0.6-0.6v-39.5c0-0.3,0.3-0.6,0.6-0.6c0.3,0,0.6,0.3,0.6,0.6v39h8.5c0.3,0,0.6,0.3,0.6,0.6v5.4
+						C78.7,513.4,78.4,513.7,78.1,513.7" />
+                    </g>
+                </g>
+                <g>
+                    <g>
+                        <defs>
+                            <rect id="SVGID_17_" x="53.8" y="467.5" width="24.9" height="46.2" />
+                        </defs>
+                        <clipPath id="SVGID_18_">
+                            <use xlink:href="#SVGID_17_" overflow="visible" />
+                        </clipPath>
+                        <path clip-path="url(#SVGID_18_)" fill="#1D1D1B" d="M64.9,513.7H54.4c-0.3,0-0.6-0.3-0.6-0.6v-5.4c0-0.3,0.3-0.6,0.6-0.6h8.5
+						v-32.9h-7.3c-0.3,0-0.6-0.3-0.6-0.6v-5.4c0-0.3,0.3-0.6,0.6-0.6h10.7c0.3,0,0.6,0.3,0.6,0.6c0,0.3-0.3,0.6-0.6,0.6H56.2v4.2
+						h7.3c0.3,0,0.6,0.3,0.6,0.6v34.1c0,0.3-0.3,0.6-0.6,0.6H55v4.2h9.9c0.3,0,0.6,0.3,0.6,0.6S65.2,513.7,64.9,513.7" />
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="_x32__sal_1_">
+        <g id="_x32__2_">
+            <g>
+                <g>
+                    <defs>
+                        <rect id="SVGID_19_" x="50" y="387.7" width="28.6" height="49.3" />
+                    </defs>
+                    <clipPath id="SVGID_20_">
+                        <use xlink:href="#SVGID_19_" overflow="visible" />
+                    </clipPath>
+                    <path clip-path="url(#SVGID_20_)" fill="#1D1D1B" d="M57.1,431.2L57.1,431.2c-0.4,0-0.6-0.3-0.6-0.6c0.2-3.1,1.1-4.3,3.6-6.7
+					l12.6-12.4c3-2.8,4.4-6.8,4.4-9.3l0,0c0.2-3.4-1-6.8-3.4-9.3c-2.3-2.4-5.4-3.8-9-3.8c-6.7,0-12.2,5.3-12.6,11.8H57
+					c0.5-3.2,2.7-5.8,6-6.6c0.4-0.1,0.6,0.1,0.7,0.5c0.1,0.4-0.1,0.6-0.5,0.7c-3,0.7-4.9,3-5.1,6.1c0,0.4-0.3,0.6-0.6,0.6h-6.2
+					c-0.4,0-0.6-0.3-0.6-0.6c0-7.6,6.2-13.7,13.9-13.7c3.8,0,7.3,1.5,9.9,4.2c2.6,2.8,4,6.5,3.8,10.3c0,2.8-1.7,7.2-4.8,10.2
+					l-12.6,12.4c-2.4,2.3-3,3.1-3.2,5.8C57.7,430.9,57.4,431.2,57.1,431.2 M78,437H50.7c-0.2,0-0.4-0.1-0.5-0.2
+					c-0.1-0.1-0.2-0.3-0.2-0.5c0.3-11,2.3-13,5.2-15.9c0.2-0.2,0.5-0.5,0.6-0.6l12.2-12c2.3-2.4,2.8-4.3,2.9-6
+					c0.2-3.1-1.8-5.9-4.8-6.6c-0.4-0.1-0.6-0.4-0.5-0.7s0.4-0.6,0.7-0.5c3.6,0.7,6.1,4.2,5.8,7.8c-0.1,1.8-0.6,4.2-3.2,6.8l-12.2,12
+					c-0.2,0.3-0.5,0.5-0.6,0.6c-2.7,2.7-4.4,4.4-4.7,14.4h26v-4.5H60.1c-0.4,0-0.6-0.3-0.6-0.6c0-0.4,0.3-0.6,0.6-0.6h18
+					c0.4,0,0.6,0.3,0.6,0.6v5.8C78.7,436.7,78.4,437,78,437" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <text id="kom-over" transform="matrix(1 0 0 1 221.6324 97.3751)" font-family="Nunito" font-size="37px">KORT OVER</text>
+    <g id="huset">
+        <defs>
+            <rect id="SVGID_21_" x="183.6" y="133.1" width="284.9" height="94.1" />
+        </defs>
+        <clipPath id="SVGID_22_">
+            <use xlink:href="#SVGID_21_" overflow="visible" />
+        </clipPath>
+        <path clip-path="url(#SVGID_22_)" fill="#1D1D1B" d="M232.1,177.5c-0.7,0-1.2-0.5-1.2-1.2v-39.9h-8.4v37.5c0,0.7-0.5,1.2-1.2,1.2
+		h-25.7c-0.7,0-1.2-0.5-1.2-1.2v-37.5H186v39.9c0,0.7-0.5,1.2-1.2,1.2s-1.2-0.5-1.2-1.2v-41.1c0-0.7,0.5-1.2,1.2-1.2h10.8
+		c0.7,0,1.2,0.5,1.2,1.2v37.5h23.3v-37.5c0-0.7,0.5-1.2,1.2-1.2h10.8c0.7,0,1.2,0.5,1.2,1.2v41.1C233.3,177,232.8,177.5,232.1,177.5
+		" />
+        <path clip-path="url(#SVGID_22_)" fill="#1D1D1B" d="M232.1,226h-10.8c-0.7,0-1.2-0.5-1.2-1.2v-39h-23.3v39c0,0.7-0.5,1.2-1.2,1.2
+		h-10.8c-0.7,0-1.2-0.5-1.2-1.2v-43.2c0-0.7,0.5-1.2,1.2-1.2s1.2,0.5,1.2,1.2v42h8.4v-39c0-0.7,0.5-1.2,1.2-1.2h25.7
+		c0.7,0,1.2,0.5,1.2,1.2v39h8.4v-42c0-0.7,0.5-1.2,1.2-1.2s1.2,0.5,1.2,1.2v43.2C233.3,225.5,232.8,226,232.1,226" />
+        <path clip-path="url(#SVGID_22_)" fill="#1D1D1B" d="M411.7,226h-47.3c-0.7,0-1.2-0.5-1.2-1.2v-42.8c0-0.7,0.5-1.2,1.2-1.2
+		c0.7,0,1.2,0.5,1.2,1.2v41.6h44.9v-8.4h-35.3c-0.7,0-1.2-0.5-1.2-1.2v-29.4c0-0.7,0.5-1.2,1.2-1.2h18.2v-1.4c0-0.7,0.5-1.2,1.2-1.2
+		c0.7,0,1.2,0.5,1.2,1.2v2.6c0,0.7-0.5,1.2-1.2,1.2h-18.2v27h35.3c0.7,0,1.2,0.5,1.2,1.2v10.8C412.9,225.5,412.4,226,411.7,226" />
+        <path clip-path="url(#SVGID_22_)" fill="#1D1D1B" d="M394.6,177.9c-0.7,0-1.2-0.5-1.2-1.2v-1.6h-18.2c-0.7,0-1.2-0.5-1.2-1.2V146
+		c0-0.7,0.5-1.2,1.2-1.2h35.3v-8.4h-44.9v40.3c0,0.7-0.5,1.2-1.2,1.2c-0.7,0-1.2-0.5-1.2-1.2v-41.5c0-0.7,0.5-1.2,1.2-1.2h47.3
+		c0.7,0,1.2,0.5,1.2,1.2V146c0,0.7-0.5,1.2-1.2,1.2h-35.3v25.5h18.2c0.7,0,1.2,0.5,1.2,1.2v2.8C395.8,177.3,395.3,177.9,394.6,177.9
+		" />
+        <path clip-path="url(#SVGID_22_)" fill="#1D1D1B" d="M441,226h-2.8c-0.7,0-1.2-0.5-1.2-1.2v-77.7H420c-0.7,0-1.2-0.5-1.2-1.2v-10.8
+		c0-0.7,0.5-1.2,1.2-1.2h21c0.7,0,1.2,0.5,1.2,1.2s-0.5,1.2-1.2,1.2h-19.8v8.4h16.9c0.7,0,1.2,0.5,1.2,1.2v77.7h1.7
+		c0.7,0,1.2,0.5,1.2,1.2S441.6,226,441,226" />
+        <path clip-path="url(#SVGID_22_)" fill="#1D1D1B" d="M449.2,226h-2.8c-0.7,0-1.2-0.5-1.2-1.2s0.5-1.2,1.2-1.2h1.6V146
+		c0-0.7,0.5-1.2,1.2-1.2h16.9v-8.4h-19.7c-0.7,0-1.2-0.5-1.2-1.2s0.5-1.2,1.2-1.2h20.9c0.7,0,1.2,0.5,1.2,1.2V146
+		c0,0.7-0.5,1.2-1.2,1.2h-16.9v77.7C450.4,225.5,449.8,226,449.2,226" />
+        <path clip-path="url(#SVGID_22_)" fill="#1D1D1B" d="M269.3,226.4c-11.8,0-24.6-7.8-24.6-25.1v-40.5c0-0.7,0.5-1.2,1.2-1.2
+		s1.2,0.5,1.2,1.2v40.5c0,10.9,6.9,22.7,22.2,22.7c5.9,0,11.5-2,15.6-5.7c4.6-4.1,7.1-10,7.1-17v-40.5c0-0.7,0.5-1.2,1.2-1.2
+		c0.7,0,1.2,0.5,1.2,1.2v40.5C294.4,217.8,281.8,226.4,269.3,226.4" />
+        <path clip-path="url(#SVGID_22_)" fill="#1D1D1B" d="M266.9,215.8c-0.1,0-0.2,0-0.2,0c-6.8-1.3-11.2-7-11.2-14.4v-65h-8.4v19.1
+		c0,0.7-0.5,1.2-1.2,1.2s-1.2-0.5-1.2-1.2v-20.3c0-0.7,0.5-1.2,1.2-1.2h10.8c0.7,0,1.2,0.5,1.2,1.2v66.2c0,7.5,4.8,11.2,9.2,12
+		c0.6,0.1,1.1,0.8,0.9,1.4C268,215.4,267.5,215.8,266.9,215.8" />
+        <path clip-path="url(#SVGID_22_)" fill="#1D1D1B" d="M272.2,215.8c-0.6,0-1.1-0.4-1.2-1c-0.1-0.6,0.3-1.3,0.9-1.4
+		c4.5-0.9,9.2-4.5,9.2-12v-66.2c0-0.7,0.5-1.2,1.2-1.2h10.8c0.7,0,1.2,0.5,1.2,1.2v20.3c0,0.7-0.5,1.2-1.2,1.2
+		c-0.7,0-1.2-0.5-1.2-1.2v-19.1h-8.4v65c0,7.4-4.4,13.1-11.2,14.4C272.4,215.8,272.3,215.8,272.2,215.8" />
+        <path clip-path="url(#SVGID_22_)" fill="#1D1D1B" d="M327.4,186.1c-0.2,0-0.4,0-0.6-0.2c-21.1-11.9-23.4-18.7-24.1-26.4
+		c0,0,0,0,0-0.1c-0.4-6.9,2-13.5,6.8-18.5c4.8-5.1,11.5-7.9,18.8-7.9c14.1,0,25.5,11.5,25.5,25.7c0,0.7-0.5,1.2-1.2,1.2h-11
+		c-0.6,0-1.2-0.5-1.2-1.2c-0.2-7.1-5.3-12.2-12.2-12.2c-3.6,0-7,1.4-9.3,3.9c-2.1,2.2-3.1,5.1-2.9,8.1c0.3,5.1,4.7,8.1,12,12.6
+		c0.6,0.3,0.7,1.1,0.4,1.6c-0.3,0.6-1.1,0.7-1.6,0.4c-6.8-4.2-12.7-7.9-13.1-14.5c-0.3-3.7,1-7.2,3.5-9.9c2.8-3,6.8-4.7,11-4.7
+		c7.8,0,13.7,5.5,14.5,13.3h8.7c-0.6-12.3-10.8-22.1-23.1-22.1c-6.6,0-12.7,2.5-17.1,7.1c-4.3,4.5-6.4,10.4-6.1,16.7
+		c0.7,6.9,2.9,13.2,22.9,24.5c0.6,0.3,0.8,1.1,0.5,1.6C328.2,185.8,327.8,186.1,327.4,186.1" />
+        <path clip-path="url(#SVGID_22_)" fill="#1D1D1B" d="M329.7,227.2c-14.3,0-26-11.8-26-26.4c0-0.7,0.5-1.2,1.2-1.2h10.8
+		c0.6,0,1.2,0.5,1.2,1.2c0.2,6.8,6.1,12.7,12.8,13c3.5,0.1,6.9-1.3,9.3-3.8c2.3-2.4,3.4-5.6,3.1-9c-0.5-5.2-4.4-8.1-10.7-12.3
+		c-0.6-0.4-0.7-1.1-0.4-1.7c0.4-0.6,1.1-0.7,1.7-0.4c5.8,3.7,11.2,7.3,11.8,14c0.4,4.1-0.9,8-3.7,10.9c-2.8,3-6.9,4.7-11.1,4.5
+		c-7.6-0.2-14.2-6.6-15.1-14.1h-8.5c0.6,12.7,10.9,22.8,23.6,22.8c6.7,0,12.9-2.6,17.3-7.3c4.4-4.7,6.7-10.8,6.3-17.3
+		c-0.7-6.9-2.8-13.6-21.9-24.2c-0.6-0.3-0.8-1-0.5-1.6c0.3-0.6,1-0.8,1.6-0.5c18.2,10.2,22.2,17.3,23.1,26.1c0,0,0,0,0,0.1
+		c0.4,7-2.2,14-7,19.1C343.8,224.4,337,227.2,329.7,227.2" />
+    </g>
+    <g id="knap">
+        <defs>
+            <rect id="SVGID_23_" x="482.9" y="180.5" width="89.6" height="46.8" />
+        </defs>
+        <clipPath id="SVGID_24_">
+            <use xlink:href="#SVGID_23_" overflow="visible" />
+        </clipPath>
+        <path clip-path="url(#SVGID_24_)" fill="#1D1D1B" d="M527.7,227.2c-0.5,0-1-0.2-1.4-0.6l-42.9-42.9c-0.6-0.6-0.7-1.4-0.4-2.1
+		c0.3-0.7,1-1.2,1.8-1.2h38.3c1.1,0,1.9,0.9,1.9,1.9c0,1.1-0.9,1.9-1.9,1.9h-33.6l38.2,38.2l38.2-38.2h-33.4c-1.1,0-1.9-0.9-1.9-1.9
+		c0-1.1,0.9-1.9,1.9-1.9h38.1c0.8,0,1.5,0.5,1.8,1.2c0.3,0.7,0.1,1.6-0.4,2.1l-42.9,42.9C528.7,227,528.2,227.2,527.7,227.2" />
+    </g>
+</svg>
