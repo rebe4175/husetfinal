@@ -1,0 +1,22 @@
+{
+	"dir": "ltr",
+	"lang": "da",
+	"name": "Huset Københavns App",
+	"scope": "/kea/07-Huset/",
+	"display": "browser",
+	"start_url": "https://www.soren-remboll.com/kea/07-Huset/mobil/",
+	"short_name": "Huset KBH",
+	"theme_color": "transparent",
+	"description": "En webapp til oversigt over kommende events og information i Huset.",
+	"orientation": "portrait",
+	"background_color": "transparent",
+	"related_applications": [],
+	"prefer_related_applications": false,
+	"icons": [
+		{
+			"src": "/images/kea/07-Huset/logo_endeligt.png",
+			"type": "image/png",
+			"sizes": "200x208"
+        }
+    ]
+}
